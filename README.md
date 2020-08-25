@@ -8,5 +8,6 @@ DI 18.08.2020 Heute war Bjarne nicht da und deswegen habe ich die Stunde genutzt
 ![bsp Versuch](images/Versuch.PNG "Screenshot von Versuch")
 
 DO 20.08.2020 Heute war ich erneut alleine und habe mich mal in der Programmiersprache Snap! versucht. Ich habe mir einzelne Befehle angesehen und erste Versuche zur Beweung der Figur gemacht. Mit Applab habe ich nun noch nicht viel gearbeitet und mit Snap auch nicht, jedoch sagte mir mein erster Eindruck, dass Snap deutlich entgegenkommender ist. Wie wir weiter vorgehen und mit welchem Programm wir arbeiten, werde ich demnächst zusammen mit Bjarne entscheiden.
+![bsp Snap!](images/Snap!.PNG "Screenshot von Snap")
 
 FR 21.08.2020 Heute habe ich mich mit der Programmierung der Grundbewegung eines Snake-Spiels beschäftigt und habe dies auch erfolgreich hinbekommen. Die Blocks, um die Figur  in eine jeweilige Richtung steuern zu lassen bis eine andere Pfeiltaste gedrückt wird, sind nun da.
