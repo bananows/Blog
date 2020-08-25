@@ -12,3 +12,6 @@ DO 20.08.2020 Heute war ich erneut alleine und habe mich mal in der Programmiers
 
 FR 21.08.2020 Heute habe ich mich mit der Programmierung der Grundbewegung eines Snake-Spiels beschäftigt und habe dies auch erfolgreich hinbekommen. Die Blocks, um die Figur  in eine jeweilige Richtung steuern zu lassen bis eine andere Pfeiltaste gedrückt wird, sind nun da.
 ![bsp Snake](images/Snake.PNG "Screenshot von Versuch von Snake")
+
+
+Di 25.08.2020 Heute haben wir unseren Github-Account mit einigen Screenshots erweitert. Zudem haben wir uns einen Snap!-Account angelegt, da wir dadurch unser Projekt auf dieser Seite speichern konnten. Uns ist ein Problem bei unserer bisherigen Programmierung aufgetreten. Undzwar stoppt das Objekt seine Bewegung komplett sobald man mehrere Eingaben gleichzeitig tätigt. Danach haben wir versucht eine zufällig spawnede Variable zu kreieren, sind allerdings nicht besonders weit gekommen. 
