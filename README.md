@@ -11,3 +11,4 @@ DO 20.08.2020 Heute war ich erneut alleine und habe mich mal in der Programmiers
 ![bsp Snap!](images/Snap!.PNG "Screenshot von Snap")
 
 FR 21.08.2020 Heute habe ich mich mit der Programmierung der Grundbewegung eines Snake-Spiels beschäftigt und habe dies auch erfolgreich hinbekommen. Die Blocks, um die Figur  in eine jeweilige Richtung steuern zu lassen bis eine andere Pfeiltaste gedrückt wird, sind nun da.
+![bsp Snake](images/Snake.PNG "Screenshot von Versuch von Snake")
