@@ -15,5 +15,6 @@ FR 21.08.2020 Heute habe ich mich mit der Programmierung der Grundbewegung eines
 
 
 Di 25.08.2020 Heute haben wir unseren Github-Account mit einigen Screenshots erweitert. Zudem haben wir uns einen Snap!-Account angelegt, da wir dadurch unser Projekt auf dieser Seite speichern konnten. Uns ist ein Problem bei unserer bisherigen Programmierung aufgetreten. Undzwar stoppt das Objekt seine Bewegung komplett sobald man mehrere Eingaben gleichzeitig tätigt. Danach haben wir versucht eine zufällig spawnede Variable zu kreieren, sind allerdings nicht besonders weit gekommen. 
+
 Do 27.08.2020 Heute haben wir Recherche betrieben bezüglich Snake und andere Projekte verschiedener Creator betrachtet. Hierbei haben wir eine coole Umsetzung eines Programmierers bei Code gefunden, was uns über einen erneuten Plattformwechsel nachdenken lässt. https://studio.code.org/projects/gamelab/CLd3Z9H1toyK0An8fEKjVA6T2mJejD34rcUhHzu680g/view
 Bei diesem Projekt werden viele Einzelcharakter hergestellt und als Gruppe deklariert, wodurch dann eine Schlange entsteht.
