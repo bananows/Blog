@@ -19,4 +19,5 @@ Di 25.08.2020 Heute haben wir unseren Github-Account mit einigen Screenshots erw
 
 Do 27.08.2020 Heute haben wir Recherche betrieben bezüglich Snake und andere Projekte verschiedener Creator betrachtet. Hierbei haben wir eine coole Umsetzung eines Programmierers bei Code gefunden, was uns über einen erneuten Plattformwechsel nachdenken lässt. https://studio.code.org/projects/gamelab/CLd3Z9H1toyK0An8fEKjVA6T2mJejD34rcUhHzu680g/view
 Bei diesem Projekt werden viele Einzelcharakter hergestellt und als Gruppe deklariert, wodurch dann eine Schlange entsteht.
-Fr 28.08.2020 Heute haben wir bei Code.org versucht den Anfang des Spels zu programieren, zu diesem zweck hane wir und das gestern verlickte programm nocheinmal im Detail angesehen und uns versuchg einen Bug beim code zu reparieren. 
+
+Fr 28.08.2020 Heute haben wir bei Code.org versucht den Anfang des Spiels zu programmieren. Zu diesem Zweck haben wir uns das gestern verlinkte Programm noch einmal im Detail angesehen und versucht einen Bug beim Code zu reparieren. 
