@@ -21,3 +21,6 @@ Do 27.08.2020 Heute haben wir Recherche betrieben bezüglich Snake und andere Pr
 Bei diesem Projekt werden viele Einzelcharakter hergestellt und als Gruppe deklariert, wodurch dann eine Schlange entsteht.
 
 Fr 28.08.2020 Heute haben wir bei Code.org versucht den Anfang des Spiels zu programmieren. Zu diesem Zweck haben wir uns das gestern verlinkte Programm noch einmal im Detail angesehen und versucht einen Bug beim Code zu reparieren. 
+Di 1.09.2020 Heute haben wir versucht die Dotsize zu definieren, da der Punkt noch zu groß ist, um für ein Spielbatres erlebnis zu sorgen. 
+//(Screenshot)
+Die Lösung des problems war die Reinfolge in der wir die Befele angeordnet haben, da das Program die Befele lediglich liniar ausliest und Variablen nur berücksichtigt, wenn diese am Anfang stehen. Deshalb haben wir nun alle Variablen an den anfagn verschoben. (Siehe Screenschot 2)
