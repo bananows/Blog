@@ -26,5 +26,6 @@ Di 1.09.2020 Heute haben wir versucht die Dotsize zu definieren, da der Punkt no
 ![bsp Dotsize](images/Dotsize.PNG "Screenshot von Dotsize")
 Die Lösung des problems war die Reinfolge in der wir die Befele angeordnet haben, da das Program die Befele lediglich liniar ausliest und Variablen nur berücksichtigt, wenn diese am Anfang stehen. Deshalb haben wir nun alle Variablen an den anfagn verschoben. (Siehe Screenschot 2)
 ![bsp Dotsizelösung](images/Dotsizeloesung.PNG "Screenshot von Dotsizelösung")
+
 Do 3.09.2020 Heute haben wir versucht, dass unsere Sprite nicht einen langen Strich hinter sich her zieht dann als einzelner Punkt Angezeigt wird. Dabei wolten wir eine Ähnliche Programierung, wie die Maus grafik vom 18.08.2020 benutzen. Leider haben wir für unser bisherige Programierung Gamelab verwendet und die Maus aus der  stunde vom 18. war mit Aplapp programiert, was mit andern bausteinen verbunden war. Im Gamelab gibt es andere Bausteine als im Applap.
 Aus Frustration sind wir probehalber zurück zu SNAP gegangen und haben den Tag, welche uns zum Wechseln gebracht hat entfernt,so dass die Sprite nicht mehr aufhört zu laufen,wenn man zwei Eingaben auf einmal tätigt. Die Lösung war eine weitere unabhängige automatisch erneut abgefragt die Schleife, die die Vorwärtsbewegung beinhaltet.
