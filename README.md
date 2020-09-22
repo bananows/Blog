@@ -32,7 +32,7 @@ Die Lösung des problems war die Reinfolge in der wir die Befele angeordnet habe
 Do 3.09.2020 Heute haben wir versucht, dass unser Sprite nicht einen langen Strich hinter sich her zieht dann als einzelner Punkt angezeigt wird. Dabei wolten wir eine ähnliche Programmierung, wie die Mausgrafik vom 18.08.2020 benutzen. Leider haben wir für unser bisherige Programmierung Gamelab verwendet und die Maus aus der Stunde vom 18. war mit Applab programmiert, was mit anderen Bausteinen verbunden war. Im Gamelab gibt es andere Bausteine als im Applap.
 Aus Frustration sind wir probehalber zurück zu SNAP! gegangen und haben den Tag, welche uns zum wechseln gebracht hat entfernt,so dass die Sprite nicht mehr aufhört zu laufen,wenn man zwei Eingaben auf einmal tätigt. Die Lösung war eine weitere unabhängige automatisch erneut abgefragt die Schleife, die die Vorwärtsbewegung beinhaltet. Außerdem haben wir es geschafft eine Schlange aus ganz vielen Klonen unseres Sprite zu bauen, diese Lösung ist allerdings sehr rechenintensiv und deshalb in unserer bisherigen Form nicht umsetzbar. 
 
-!!Fr 4.9.2020!!
+//!!Fr 4.9.2020!!
 
 Di 8.9.2020 Heute haben wir Recherchen bezüglich der Listenfunktion Betrieben um damit eventuell unser clone Problem zu lösen. 
 
