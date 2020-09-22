@@ -33,6 +33,8 @@ Do 3.09.2020 Heute haben wir versucht, dass unser Sprite nicht einen langen Stri
 Aus Frustration sind wir probehalber zurück zu SNAP! gegangen und haben den Tag, welche uns zum wechseln gebracht hat entfernt,so dass die Sprite nicht mehr aufhört zu laufen,wenn man zwei Eingaben auf einmal tätigt. Die Lösung war eine weitere unabhängige automatisch erneut abgefragt die Schleife, die die Vorwärtsbewegung beinhaltet. Außerdem haben wir es geschafft eine Schlange aus ganz vielen Klonen unseres Sprite zu bauen, diese Lösung ist allerdings sehr rechenintensiv und deshalb in unserer bisherigen Form nicht umsetzbar. 
 
 Fr 4.9.2020
+
 Di 8.9.2020 Heute haben wir Recherchen bezüglich der Listenfunktion Betrieben um damit eventuell unser clone Problem zu lösen. 
+
 Do 10.9.2020 Heute wollten wir unsere Freistunden Nutzen um am Projekt weiter zu Arbeiten, jedoch ist leider das Internet in der Schule Ausgefallen und wir mussten eine Zwangspause einlegen.
 Fr 11.09.2020 Heute hat das Internet immer noch nicht Funktioniert, sodas ein weiterarbeiten in unserer Unterrichtszeit nicht möglich wir. Wir haben später von zu Hause unsere Recherchen komplimentiert. 
