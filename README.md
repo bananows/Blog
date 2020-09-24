@@ -39,3 +39,4 @@ Di 8.9.2020 Heute haben wir Recherchen bezüglich der Listenfunktion Betrieben u
 Do 10.9.2020 Heute wollten wir unsere Freistunden Nutzen um am Projekt weiter zu Arbeiten, jedoch ist leider das Internet in der Schule Ausgefallen und wir mussten eine Zwangspause einlegen.
 
 Fr 11.09.2020 Heute hat das Internet immer noch nicht Funktioniert, sodas ein weiterarbeiten in unserer Unterrichtszeit nicht möglich wir. Wir haben später von zu Hause unsere Recherchen komplimentiert. 
+Do 24.09.2020 Heute haben wir das Problem gelöst, dass keine Klone mehr entstanden sind. Der Fehler lag in der Variable isClone, welches nicht richtig abgelesen werden konnte.
