@@ -40,3 +40,4 @@ Do 10.9.2020 Heute wollten wir unsere Freistunden Nutzen um am Projekt weiter zu
 
 Fr 11.09.2020 Heute hat das Internet immer noch nicht Funktioniert, sodas ein weiterarbeiten in unserer Unterrichtszeit nicht möglich wir. Wir haben später von zu Hause unsere Recherchen komplimentiert. 
 Do 24.09.2020 Heute haben wir das Problem gelöst, dass keine Klone mehr entstanden sind. Der Fehler lag in der Variable isClone, welches nicht richtig abgelesen werden konnte.
+Fr 25.09.2020 Wir haben heute probiert, dass die Klone immer hinter dem Parent spawnen, sodass eine "Schlange" entsteht, jedoch sind wir noch nicht besonders weit gekommen. Das Ziel für unsere nächsten Stunden ist es, das hinzukriegen und im Anschluss noch zu programmieren, dass die Klone die Bewegungen erst durchführen, sobald sie die Position des Parents erreicht haben, wo der Bewegungsbefehl zum ersten Mal ausgeführt wurde. 
