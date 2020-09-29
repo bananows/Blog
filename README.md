@@ -43,3 +43,6 @@ Fr 11.09.2020 Heute hat das Internet immer noch nicht Funktioniert, sodas ein we
 Do 24.09.2020 Heute haben wir das Problem gelöst, dass keine Klone mehr entstanden sind. Der Fehler lag in der Variable isClone, welches nicht richtig abgelesen werden konnte.
  
 Fr 25.09.2020 Wir haben heute probiert, dass die Klone immer hinter dem Parent spawnen, sodass eine "Schlange" entsteht, jedoch sind wir noch nicht besonders weit gekommen. Das Ziel für unsere nächsten Stunden ist es, das hinzukriegen und im Anschluss noch zu programmieren, dass die Klone die Bewegungen erst durchführen, sobald sie die Position des Parents erreicht haben, wo der Bewegungsbefehl zum ersten Mal ausgeführt wurde. 
+
+Di 29.09.2020 Heute haben wir uns mit dem list-Befehl beschäftigt und versucht diesen anhand eines Probeprojekts in unser Projekt zu implementieren. Dabei soll dieser list-Befehl dafür sorgen, dass unsere "Schlange" entsteht. https://snap.berkeley.edu/snap/snap.html#present:Username=jw173m%40bhsec.bard.edu&ProjectName=PP7%20Final%20Snake%20Project&editMode&noRun
+
