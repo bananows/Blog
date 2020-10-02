@@ -46,3 +46,6 @@ Fr 25.09.2020 Wir haben heute probiert, dass die Klone immer hinter dem Parent s
 
 Di 29.09.2020 Heute haben wir uns mit dem list-Befehl beschäftigt und versucht diesen anhand eines Probeprojekts in unser Projekt zu implementieren. Dabei soll dieser list-Befehl dafür sorgen, dass unsere "Schlange" entsteht. https://snap.berkeley.edu/snap/snap.html#present:Username=jw173m%40bhsec.bard.edu&ProjectName=PP7%20Final%20Snake%20Project&editMode&noRun
 
+Do 1.10.2020 Wir haben uns weiterhin mit dem list-Befehl beschäftigt und versucht zu verstehen, wie dieser genau funktioniert und wie dieser genau am Ende zu einer Schlange führen soll. Dazu haben wir uns andere Snake-Programmierungen angesehen, um uns von diesen helfen zu lassen. Soweit wir verstanden haben, schreibt der list-Befehl in Snap! eine Art Tabelle, in welcher man Informationen vermerken kann (in unserem Fall x und y Koordinaten). Auf diese Liste kann man später zurückgreifen und die Daten auslesen, um einen Befehl damit zu füttern. In unserem Fall heißt das, dass der letzte Sprite gelöscht und anschließend nach ganz vorne versetzt werden soll, während die anderen auf ihren Positionen verbleiben.
+
+Fr 02.10.2020
