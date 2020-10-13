@@ -49,3 +49,8 @@ Di 29.09.2020 Heute haben wir uns mit dem list-Befehl beschäftigt und versucht 
 Do 1.10.2020 Wir haben uns weiterhin mit dem list-Befehl beschäftigt und versucht zu verstehen, wie dieser genau funktioniert und wie dieser genau am Ende zu einer Schlange führen soll. Dazu haben wir uns andere Snake-Programmierungen angesehen, um uns von diesen helfen zu lassen. Soweit wir verstanden haben, schreibt der list-Befehl in Snap! eine Art Tabelle, in welcher man Informationen vermerken kann (in unserem Fall x und y Koordinaten). Auf diese Liste kann man später zurückgreifen und die Daten auslesen, um einen Befehl damit zu füttern. In unserem Fall heißt das, dass der letzte Sprite gelöscht und anschließend nach ganz vorne versetzt werden soll, während die anderen auf ihren Positionen verbleiben.
 
 Fr 02.10.2020
+Wir haben unsere Steuerung gänzlich erneuert und alle Befehle kürzer programiert, so dass die Seuerung nun dierekter ist und keine probleme mit zwei gleichzeitigen eingaben hat, da der move Befehl nun nicht mehr in den einzelnen Tasten befehlen integriert ist, sondern als eigenständige forever schleofe von der grünen Flagge getrigert wird.
+
+Mi 13.10.2020 
+Wir haben uns den code des anderen in unseren Code implementiert um zu überprüfen, ob unser code Fehlerhaft ist. anschließed haben wir den fremden Code wieder Enfernt. Unser Ergebnis ist:
+
