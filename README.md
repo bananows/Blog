@@ -52,5 +52,5 @@ Fr 02.10.2020
 Wir haben unsere Steuerung gänzlich erneuert und alle Befehle kürzer programiert, so dass die Seuerung nun dierekter ist und keine probleme mit zwei gleichzeitigen eingaben hat, da der move Befehl nun nicht mehr in den einzelnen Tasten befehlen integriert ist, sondern als eigenständige forever schleofe von der grünen Flagge getrigert wird.
 
 Mi 13.10.2020 
-Wir haben uns den code des anderen in unseren Code implementiert um zu überprüfen, ob unser code Fehlerhaft ist. anschließed haben wir den fremden Code wieder Enfernt. Unser Ergebnis ist:  
+Wir haben uns den code des anderen in unseren Code implementiert um zu überprüfen, ob unser code Fehlerhaft ist. anschließed haben wir den fremden Code wieder Enfernt. Unser Ergebnis ist:   
 
