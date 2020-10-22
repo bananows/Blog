@@ -52,5 +52,7 @@ Fr 02.10.2020
 Wir haben unsere Steuerung gänzlich erneuert und alle Befehle kürzer programiert, so dass die Seuerung nun dierekter ist und keine probleme mit zwei gleichzeitigen eingaben hat, da der move Befehl nun nicht mehr in den einzelnen Tasten befehlen integriert ist, sondern als eigenständige forever schleofe von der grünen Flagge getrigert wird.
 
 Mi 13.10.2020 
-Wir haben uns den code des anderen in unseren Code implementiert um zu überprüfen, ob unser code Fehlerhaft ist. anschließed haben wir den fremden Code wieder Enfernt. Unser Ergebnis ist:   
+Wir haben uns den Code des anderen in unseren Code implementiert um zu überprüfen, ob unser Code fehlerhaft ist. Anschließed haben wir den fremden Code wieder entfernt. Unser Ergebnis ist:   
 
+DO 22.10.2020
+Heute haben wir entdeckt, wie man eigene Blöcke in Snap! definiert und anwendet. Wir haben zurzeit das Problem, dass der "touching trail" Befehl nicht erkannt wird. Das heißt, dass das Spiel nicht endet sobald die Schlange sich selbst berührt, was ja das Spiel stark beeinträchtigt. Wir sind gerade dabei, dieses Problem zu lösen.
