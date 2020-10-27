@@ -63,3 +63,4 @@ Diese Stunde haben wir unser Spiel komplett zum laufen gekriegt. Der Eraser funk
 Di 27.10.2020
 Heute haben wir das Design des Apfels bearbeitet. Das Einfügen des Bildes, welches wir aus Google Bilder entnommen haben, ging sehr einfach, da wir es einfach nur per drag and drop reinziehen mussten. In Snap haben wir das Bild dann noch etwas angepasst, indem wir alles um den Apfel wegradiert haben, sodass nur der Apfel zusehen war. Unsere nächste Aufgabe wird es sein, das Spiel allgemein bisschen hübscher zu gestalten, indem wir die Scoreanzeige anpassen, einen Anfangs- und Gameoverscreen erstellen und gewisse Effekte einfügen, die nach Erreichen gewisser Punkte erscheinen sollen.  
 ![bsp Apfelbearbeitung](images/Apfelbearbeitung.PNG "Apfelbearbeitung Screenshot")
+
