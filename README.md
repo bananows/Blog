@@ -56,3 +56,9 @@ Wir haben uns den Code des anderen in unseren Code implementiert um zu überprü
 
 DO 22.10.2020
 Heute haben wir entdeckt, wie man eigene Blöcke in Snap! definiert und anwendet. Wir haben zurzeit das Problem, dass der "touching trail" Befehl nicht erkannt wird. Das heißt, dass das Spiel nicht endet sobald die Schlange sich selbst berührt, was ja das Spiel stark beeinträchtigt. Wir sind gerade dabei, dieses Problem zu lösen.
+
+FR 23.10.2020
+Diese Stunde haben wir unser Spiel komplett zum laufen gekriegt. Der Eraser funktioniert nun fast perfekt, es muss nur noch die Größe des Erasers leicht angepasst werden, damit die Schlangenkästchen voll und manchmal nicht nur teilweise entfernt werden. 
+
+Di 27.10.2020
+Heute haben wir das Design des Apfels bearbeitet. Das Einfügen des Bildes, welches wir aus Google Bilder entnommen haben, ging sehr einfach, da wir es einfach nur per drag and drop reinziehen mussten. In Snap haben wir das Bild dann noch etwas angepasst, indem wir alles um den Apfel wegradiert haben, sodass nur der Apfel zusehen war. Unsere nächste Aufgabe wird es sein, das Spiel allgemein bisschen hübscher zu gestalten, indem wir die Scoreanzeige anpassen, einen Anfangs- und Gameoverscreen erstellen und gewisse Effekte einfügen, die nach Erreichen gewisser Punkte erscheinen sollen.
