@@ -70,3 +70,5 @@ Heute haben wir uns mit der Programmierung eines Endscreens auseinandergesetzt. 
 
 Fr 30.10.2020
 Heute haben wir unseren Endscreen vervollständigt. Wir haben einen Feelsbadman-Emote eingesetzt und eine Zeile eingefügt, in welcher steht : Drücke [space] für Neustart. Dieser blinkt jede Sekunde einmal. Um dies umzusetzen, haben wir im Script ein Stopall-Block zu einem Stop-Script-Block geändert, welcher 3 Scripts per broadcast stoppt. Zudem haben wir eine Variable definiert, welche gleich 1 wird beim Neustart und das Blinken unseres neu eingefügten Schriftugs beendet. 
+
+![bsp Neustart](images/Neustart.PNG "Neustart Screenshot")
