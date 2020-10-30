@@ -67,3 +67,6 @@ Heute haben wir das Design des Apfels bearbeitet. Das Einfügen des Bildes, welc
 
 Do 29.10.2020
 Heute haben wir uns mit der Programmierung eines Endscreens auseinandergesetzt. Dazu wird erstmal ein neuer Sprite generiert, dessen Design dann durch die Costumefunktion geändert wird, sodass er die Form eines Endscreens annimmt. Damit dieser dann flächendeckend angezeigt wird, muss die Position des "Sprites" bzw. des Endscreens auf x=0 y=0 gesetzt werden. Außerdem haben wir programmiert, dass der Endscreen beim Starten des Spiels versteckt wird und anschließend bei Berührung der Snake oder des Spielrandes angezeigt wird.
+
+Fr 30.10.2020
+Heute haben wir unseren Endscreen vervollständigt. Wir haben einen Feelsbadman-Emote eingesetzt und eine Zeile eingefügt, in welcher steht : Drücke [space] für Neustart. Dieser blinkt jede Sekunde einmal. Um dies umzusetzen, haben wir im Script ein Stopall-Block zu einem Stop-Script-Block geändert, welcher 3 Scripts per broadcast stoppt. Zudem haben wir eine Variable definiert, welche gleich 1 wird beim Neustart und das Blinken unseres neu eingefügten Schriftugs beendet. 
