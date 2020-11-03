@@ -72,3 +72,6 @@ Fr 30.10.2020
 Heute haben wir unseren Endscreen vervollständigt. Wir haben einen Feelsbadman-Emote eingesetzt und eine Zeile eingefügt, in welcher steht : Drücke [space] für Neustart. Dieser blinkt jede Sekunde einmal. Um dies umzusetzen, haben wir im Script ein Stopall-Block zu einem Stop-Script-Block geändert, welcher 3 Scripts per broadcast stoppt. Zudem haben wir eine Variable definiert, welche gleich 1 wird beim Neustart und das Blinken unseres neu eingefügten Schriftugs beendet. 
 
 ![bsp Neustart](images/Neustart.PNG "Neustart Screenshot")
+
+Di 03.11.2020
+Heute haben wir einen Soundeffekt in unser Spiel eingefügt, jedoch funktionert dieser noch nicht so wie er soll, da er auf nur einen einzigen Trigger reagiert und dann erst aufhört zu spielen, wenn der Score mindestens um einen Wert gestiegen ist. Unser Ziel ist es, dass der Score ab einer Bestimmten Zahl abgespielt wird und bei jedem Vielfachen dieser Zahl. Außerdem soll der Sound nur ein einziges Mal abgespielt werden und nicht in Dauerschleife, sobald der Score erreicht wurde. Dazu müssen wir uns noch ein wenig mit den mathematischen Blöcken beschäftigen. 
