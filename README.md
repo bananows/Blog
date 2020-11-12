@@ -75,3 +75,6 @@ Heute haben wir unseren Endscreen vervollständigt. Wir haben einen Feelsbadman-
 
 Di 03.11.2020
 Heute haben wir einen Soundeffekt in unser Spiel eingefügt, jedoch funktionert dieser noch nicht so wie er soll, da er auf nur einen einzigen Trigger reagiert und dann erst aufhört zu spielen, wenn der Score mindestens um einen Wert gestiegen ist. Unser Ziel ist es, dass der Score ab einer Bestimmten Zahl abgespielt wird und bei jedem Vielfachen dieser Zahl. Außerdem soll der Sound nur ein einziges Mal abgespielt werden und nicht in Dauerschleife, sobald der Score erreicht wurde. Dazu müssen wir uns noch ein wenig mit den mathematischen Blöcken beschäftigen. 
+
+Do 12.11.2020
+Diese Stunde haben wir weiterhin versucht, dass der Sound bei jedem 5. Score abgespielt wird. 
