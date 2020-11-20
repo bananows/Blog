@@ -78,3 +78,7 @@ Heute haben wir einen Soundeffekt in unser Spiel eingefügt, jedoch funktionert 
 
 Do 12.11.2020
 Diese Stunde haben wir weiterhin versucht, dass der Sound bei jedem 5. Score abgespielt wird. 
+Di 17.11.2020
+
+Fr 20.11.2020
+Diese Stunde haben wir uns mit der Fertigstellung unseres Startscreens beschäftigt. Dazu haben wir auf dem IPad uns den Text dazu ausgedacht und passend zu unserem Endscreen uns ebenfalls ein Pepe-Emote aus Google-Bilder ausgesucht.
