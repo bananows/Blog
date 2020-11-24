@@ -77,8 +77,15 @@ Di 03.11.2020
 Heute haben wir einen Soundeffekt in unser Spiel eingefügt, jedoch funktionert dieser noch nicht so wie er soll, da er auf nur einen einzigen Trigger reagiert und dann erst aufhört zu spielen, wenn der Score mindestens um einen Wert gestiegen ist. Unser Ziel ist es, dass der Score ab einer Bestimmten Zahl abgespielt wird und bei jedem Vielfachen dieser Zahl. Außerdem soll der Sound nur ein einziges Mal abgespielt werden und nicht in Dauerschleife, sobald der Score erreicht wurde. Dazu müssen wir uns noch ein wenig mit den mathematischen Blöcken beschäftigen. 
 
 Do 12.11.2020
-Diese Stunde haben wir weiterhin versucht, dass der Sound bei jedem 5. Score abgespielt wird. 
+Diese Stunde haben wir weiterhin versucht, dass der Sound bei jedem 5. Score abgespielt wird. Da dabei jedoch immer weiter neue Probleme aufgetaucht sind, haben wir uns dagegen entschieden, den Sound bei jedem 5. Score abzuspielen. Wir werden den Sound bei jedem Score abspielen lassen, da diese Programmierung deutlich einfacher ist und unserer Meinung nach bei einer angenehmen Lautstärke nicht allzu störend ist. 
+
 Di 17.11.2020
+Diese Stunde haben wir damit begonnen, den Text für unseren Startscreen auszudenken. Um diesen zu erstellen, haben wir mit der App AdobeAcrobate gearbeitet. Dort haben wir eine spezielle Pinselform für unseren Text ausgewählt.
 
 Fr 20.11.2020
 Diese Stunde haben wir uns mit der Fertigstellung unseres Startscreens beschäftigt. Dazu haben wir auf dem IPad uns den Text dazu ausgedacht und passend zu unserem Endscreen uns ebenfalls ein Pepe-Emote aus Google-Bilder ausgesucht.
+
+Di 24.11.2020
+Heute haben wir unseren Startscreen noch mit dem zuvor ausgesuchten peepoHappy-Emote ergänzt.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2142040442
+Anschließend haben wir unseren Eraser nochmal verbessert, da dieser, sobald die Schlange horizontal nebeneinander verlaufen ist, zu viele Blöcke wegradiert hat und nicht mehr nur den hinten anschließenden Block. Es wurden teilweise manchmal 2 Blöcke gleichzeitig weggeschnitten. Dieses Problem haben wir behoben, indem wir von unserem Eraser, der ja die Form eines Rechtecks hatte, zu einem Quadrat geändert haben. So radiert er fast perfekt nur noch den hinten anschließenden Block weg, so wie wir es möchten.
