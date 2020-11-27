@@ -1,5 +1,6 @@
 # Blog
-Di 11.08.2020 Heute wurde uns das Konzept des Informatik Unterrichts erklärt und uns wurden links zu github Projekten vorher gegangener Jahrgänge  
+Di 11.08.2020 Heute wurde uns das Konzept des Informatikunterrichts erklärt und uns wurden Links zu GithubProjekten vorher gegangener Jahrgänge gegeben, bei welchen wir uns ihre Beispiele angucken konnten.
+
 DO 13.08.2020 In der heutigen Stunde haben wir uns zu Beginn einen Github-Account erstellt und uns mit der Seite vertraut gemacht. Das erste, was wir gemacht haben, war es, 2 ReadMe.md Dateien zu erstellen für unseren Blog und unser Projekt. Anschließend haben wir uns erste Gedanken zu unserem Projekt gemacht. Wir haben unter anderem darüber nachgedacht, eine IOS-App zu erstellen, da wir beide leidenschaftliche Apple-User sind. Da dies jedoch mit einigen Hürden verbunden war, haben wir uns dagegenentschieden. 
 
 FR 14.08.2020 Heute haben wir uns ein Appkonzept überlegt. Wir planen eine Art Snakespiel zu programmieren, in welchem verschiedene Effekte und Bilder einintegriert werden sollen. Zuerst haben wir uns auf der Programmiersprache Snap! umgesehen aber nach Beratung von Herrn Buhl haben wir uns vorerst für Applab entschieden.
@@ -21,24 +22,24 @@ Do 27.08.2020 Heute haben wir Recherche betrieben bezüglich Snake und andere Pr
 Bei diesem Projekt werden viele Einzelcharakter hergestellt und als Gruppe deklariert, wodurch dann eine Schlange entsteht.
 
 Fr 28.08.2020 Heute haben wir bei Code.org versucht den Anfang des Spiels zu programmieren. Zu diesem Zweck haben wir uns das gestern verlinkte Programm noch einmal im Detail angesehen und versucht einen Bug beim Code zu reparieren. 
-Di 1.09.2020 Heute haben wir versucht die Dotsize zu definieren, da der Punkt noch zu groß ist, um für ein Spielbatres erlebnis zu sorgen. 
+Di 1.09.2020 Heute haben wir versucht die Dotsize zu definieren, da der Punkt noch zu groß ist, um für ein spielbares Erlebnis zu sorgen. 
 //(Screenshot)
 ![bsp Dotsize](images/Dotsize.PNG "Screenshot von Dotsize")
-Die Lösung des problems war die Reinfolge in der wir die Befele angeordnet haben, da das Program die Befele lediglich liniar ausliest und Variablen nur berücksichtigt, wenn diese am Anfang stehen. Deshalb haben wir nun alle Variablen an den anfagn verschoben. (Siehe Screenschot 2)
+Die Lösung des Problems war die Reihenfolge, in der wir die Befehle angeordnet haben, da das Programm die Befehle lediglich linear ausliest und Variablen nur berücksichtigt, wenn diese am Anfang stehen. Deshalb haben wir nun alle Variablen an den Anfang verschoben. (Siehe Screenschot 2)
 
 
 ![bsp Dotsizelösung](images/Dotsizeloesung.PNG "Screenshot von Dotsizelösung")
 
 Do 3.09.2020 Heute haben wir versucht, dass unser Sprite nicht einen langen Strich hinter sich her zieht dann als einzelner Punkt angezeigt wird. Dabei wolten wir eine ähnliche Programmierung, wie die Mausgrafik vom 18.08.2020 benutzen. Leider haben wir für unser bisherige Programmierung Gamelab verwendet und die Maus aus der Stunde vom 18. war mit Applab programmiert, was mit anderen Bausteinen verbunden war. Im Gamelab gibt es andere Bausteine als im Applap.
-Aus Frustration sind wir probehalber zurück zu SNAP! gegangen und haben den Tag, welche uns zum wechseln gebracht hat entfernt,so dass die Sprite nicht mehr aufhört zu laufen,wenn man zwei Eingaben auf einmal tätigt. Die Lösung war eine weitere unabhängige automatisch erneut abgefragt die Schleife, die die Vorwärtsbewegung beinhaltet. Außerdem haben wir es geschafft eine Schlange aus ganz vielen Klonen unseres Sprite zu bauen, diese Lösung ist allerdings sehr rechenintensiv und deshalb in unserer bisherigen Form nicht umsetzbar. 
+Aus Frustration sind wir probehalber zurück zu SNAP! gegangen und haben den Tag, welche uns zum Wechseln gebracht hat entfernt,so dass die Sprite nicht mehr aufhört zu laufen,wenn man zwei Eingaben auf einmal tätigt. Die Lösung war eine weitere unabhängige automatisch erneut abgefragt die Schleife, die die Vorwärtsbewegung beinhaltet. Außerdem haben wir es geschafft eine Schlange aus ganz vielen Klonen unseres Sprite zu bauen, diese Lösung ist allerdings sehr rechenintensiv und deshalb in unserer bisherigen Form nicht umsetzbar. 
 
 //[!!Fr 4.9.2020!!]
 
-Di 8.9.2020 Heute haben wir Recherchen bezüglich der Listenfunktion Betrieben um damit eventuell unser clone Problem zu lösen. 
+Di 8.9.2020 Heute haben wir Recherchen bezüglich der Listenfunktion betrieben ,um damit eventuell unser Cloneproblem zu lösen. 
 
-Do 10.9.2020 Heute wollten wir unsere Freistunden Nutzen um am Projekt weiter zu Arbeiten, jedoch ist leider das Internet in der Schule Ausgefallen und wir mussten eine Zwangspause einlegen.
+Do 10.9.2020 Heute wollten wir unsere Freistunden nutzen um am Projekt weiter zu arbeiten, jedoch ist leider das Internet in der Schule ausgefallen und wir mussten eine Zwangspause einlegen.
 
-Fr 11.09.2020 Heute hat das Internet immer noch nicht Funktioniert, sodas ein weiterarbeiten in unserer Unterrichtszeit nicht möglich wir. Wir haben später von zu Hause unsere Recherchen komplimentiert. 
+Fr 11.09.2020 Heute hat das Internet immer noch nicht funktioniert, sodass ein Weiterarbeiten in unserer Unterrichtszeit nicht möglich wir. Wir haben später von zu Hause aus unsere Recherchen komplimentiert. 
  
 Do 24.09.2020 Heute haben wir das Problem gelöst, dass keine Klone mehr entstanden sind. Der Fehler lag in der Variable isClone, welches nicht richtig abgelesen werden konnte.
  
@@ -49,7 +50,7 @@ Di 29.09.2020 Heute haben wir uns mit dem list-Befehl beschäftigt und versucht 
 Do 1.10.2020 Wir haben uns weiterhin mit dem list-Befehl beschäftigt und versucht zu verstehen, wie dieser genau funktioniert und wie dieser genau am Ende zu einer Schlange führen soll. Dazu haben wir uns andere Snake-Programmierungen angesehen, um uns von diesen helfen zu lassen. Soweit wir verstanden haben, schreibt der list-Befehl in Snap! eine Art Tabelle, in welcher man Informationen vermerken kann (in unserem Fall x und y Koordinaten). Auf diese Liste kann man später zurückgreifen und die Daten auslesen, um einen Befehl damit zu füttern. In unserem Fall heißt das, dass der letzte Sprite gelöscht und anschließend nach ganz vorne versetzt werden soll, während die anderen auf ihren Positionen verbleiben.
 
 Fr 02.10.2020
-Wir haben unsere Steuerung gänzlich erneuert und alle Befehle kürzer programiert, so dass die Seuerung nun dierekter ist und keine probleme mit zwei gleichzeitigen eingaben hat, da der move Befehl nun nicht mehr in den einzelnen Tasten befehlen integriert ist, sondern als eigenständige forever schleofe von der grünen Flagge getrigert wird.
+Wir haben unsere Steuerung gänzlich erneuert und alle Befehle kürzer programiert, so dass die Seuerung nun dierekter ist und keine Probleme mit zwei gleichzeitigen Eingaben hat, da der move Befehl nun nicht mehr in den einzelnen Tastenbefehlen integriert ist, sondern als eigenständige Foreverschleife von der grünen Flagge getrigert wird.
 
 Mi 13.10.2020 
 Wir haben uns den Code des anderen in unseren Code implementiert um zu überprüfen, ob unser Code fehlerhaft ist. Anschließed haben wir den fremden Code wieder entfernt. Unser Ergebnis ist:    
@@ -58,7 +59,7 @@ DO 22.10.2020
 Heute haben wir entdeckt, wie man eigene Blöcke in Snap! definiert und anwendet. Wir haben zurzeit das Problem, dass der "touching trail" Befehl nicht erkannt wird. Das heißt, dass das Spiel nicht endet sobald die Schlange sich selbst berührt, was ja das Spiel stark beeinträchtigt. Wir sind gerade dabei, dieses Problem zu lösen.
 
 FR 23.10.2020
-Diese Stunde haben wir unser Spiel komplett zum laufen gekriegt. Der Eraser funktioniert nun fast perfekt, es muss nur noch die Größe des Erasers leicht angepasst werden, damit die Schlangenkästchen voll und manchmal nicht nur teilweise entfernt werden. 
+Diese Stunde haben wir unser Spiel komplett zum Laufen gekriegt. Der Eraser funktioniert nun fast perfekt, es muss nur noch die Größe des Erasers leicht angepasst werden, damit die Schlangenkästchen voll und manchmal nicht nur teilweise entfernt werden. 
 
 Di 27.10.2020
 Heute haben wir das Design des Apfels bearbeitet. Das Einfügen des Bildes, welches wir aus Google Bilder entnommen haben, ging sehr einfach, da wir es einfach nur per drag and drop reinziehen mussten. In Snap haben wir das Bild dann noch etwas angepasst, indem wir alles um den Apfel wegradiert haben, sodass nur der Apfel zusehen war. Unsere nächste Aufgabe wird es sein, das Spiel allgemein bisschen hübscher zu gestalten, indem wir die Scoreanzeige anpassen, einen Anfangs- und Gameoverscreen erstellen und gewisse Effekte einfügen, die nach Erreichen gewisser Punkte erscheinen sollen.  
