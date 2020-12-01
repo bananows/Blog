@@ -91,3 +91,6 @@ Di 24.11.2020
 Heute haben wir unseren Startscreen noch mit dem zuvor ausgesuchten peepoHappy-Emote ergänzt.
 https://steamcommunity.com/sharedfiles/filedetails/?id=2142040442
 Anschließend haben wir unseren Eraser nochmal verbessert, da dieser, sobald die Schlange horizontal nebeneinander verlaufen ist, zu viele Blöcke wegradiert hat und nicht mehr nur den hinten anschließenden Block. Es wurden teilweise manchmal 2 Blöcke gleichzeitig weggeschnitten. Dieses Problem haben wir behoben, indem wir von unserem Eraser, der ja die Form eines Rechtecks hatte, zu einem Quadrat geändert haben. So radiert er fast perfekt nur noch den hinten anschließenden Block weg, so wie wir es möchten.
+
+Fr 27.12.2020
+Diese Stunde haben wir bemerkt, dass der Eraser noch immer nach unten hin ein wenig zu viel wegradiert. Dieses Problem haben wir mit einer erneuten Anpassung des Erasers behoben, indem wir einen kleinen Teil des Eraserrechtecks von unten entfernt haben. Anschließend haben wir uns an unseren Blog gesetzt und grob die Rechtschreibfehler etc. korrigiert.
