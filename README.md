@@ -94,3 +94,6 @@ Anschließend haben wir unseren Eraser nochmal verbessert, da dieser, sobald die
 
 Fr 27.12.2020
 Diese Stunde haben wir bemerkt, dass der Eraser noch immer nach unten hin ein wenig zu viel wegradiert. Dieses Problem haben wir mit einer erneuten Anpassung des Erasers behoben, indem wir einen kleinen Teil des Eraserrechtecks von unten entfernt haben. Anschließend haben wir uns an unseren Blog gesetzt und grob die Rechtschreibfehler etc. korrigiert.
+
+Di 01.12.2020
+Die Stunde haben wir dafür genutzt, unseren Blog weiter zu verbessern und wir haben Kommentare in unser Snap! eingefügt, die die Funktionsweise unserer Blöcke erklären.
