@@ -97,3 +97,4 @@ Diese Stunde haben wir bemerkt, dass der Eraser noch immer nach unten hin ein we
 
 Di 01.12.2020
 Die Stunde haben wir dafür genutzt, unseren Blog weiter zu verbessern und wir haben Kommentare in unser Snap! eingefügt, die die Funktionsweise unserer Blöcke erklären.
+![bsp Kommentare](images/Kommentare.PNG "Screenshot von Komentare")
