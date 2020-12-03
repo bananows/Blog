@@ -79,7 +79,7 @@ Di 03.11.2020
 Heute haben wir einen Soundeffekt in unser Spiel eingefügt, jedoch funktionert dieser noch nicht so wie er soll, da er auf nur einen einzigen Trigger reagiert und dann erst aufhört zu spielen, wenn der Score mindestens um einen Wert gestiegen ist. Unser Ziel ist es, dass der Score ab einer Bestimmten Zahl abgespielt wird und bei jedem Vielfachen dieser Zahl. Außerdem soll der Sound nur ein einziges Mal abgespielt werden und nicht in Dauerschleife, sobald der Score erreicht wurde. Dazu müssen wir uns noch ein wenig mit den mathematischen Blöcken beschäftigen. 
 
 Do 12.11.2020
-Diese Stunde haben wir weiterhin versucht, dass der Sound bei jedem 5. Score abgespielt wird. Da dabei jedoch immer weiter neue Probleme aufgetaucht sind, haben wir uns dagegen entschieden, den Sound bei jedem 5. Score abzuspielen. Wir werden den Sound bei jedem Score abspielen lassen, da diese Programmierung deutlich einfacher ist und unserer Meinung nach bei einer angenehmen Lautstärke nicht allzu störend ist. 
+Diese Stunde haben wir weiterhin versucht, dass der Sound bei jedem 5. Score abgespielt wird. Da dabei jedoch immer weiter neue Probleme aufgetaucht sind, haben wir uns dagegen entschieden, den Sound bei jedem 5. Score abzuspielen. Wir werden den Sound doch nicht abspielen lassen, da wir fanden, dass dieser Sound teilweise dann doch etwas nervig sein könnte für den Spieler und für Personen in der Nähe. 
 
 Di 17.11.2020
 Diese Stunde haben wir damit begonnen, den Text für unseren Startscreen auszudenken. Um diesen zu erstellen, haben wir mit der App AdobeAcrobate gearbeitet. Dort haben wir eine spezielle Pinselform für unseren Text ausgewählt.
