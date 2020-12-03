@@ -98,3 +98,7 @@ Diese Stunde haben wir bemerkt, dass der Eraser noch immer nach unten hin ein we
 Di 01.12.2020
 Die Stunde haben wir dafür genutzt, unseren Blog weiter zu verbessern und wir haben Kommentare in unser Snap! eingefügt, die die Funktionsweise unserer Blöcke erklären.
 ![bsp Kommentare](images/Kommentare.PNG "Screenshot von Komentare")
+
+
+Do 3.12.2020
+Heute haben wir unsern Code veröffentlicht.Er ist nun unter folgendem Link zu erreichen: https://snap.berkeley.edu/project?user=bananows&project=projekt%204. anschließend haben wir an unserer Projektseite gearbeitet, wo wir das Spielprinzip ausführlich erläutert haben. 
