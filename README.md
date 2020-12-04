@@ -39,7 +39,7 @@ Di 8.9.2020 Heute haben wir Recherchen bezüglich der Listenfunktion betrieben ,
 
 Do 10.9.2020 Heute wollten wir unsere Freistunden nutzen um am Projekt weiter zu arbeiten, jedoch ist leider das Internet in der Schule ausgefallen und wir mussten eine Zwangspause einlegen.
 
-Fr 11.09.2020 Heute hat das Internet immer noch nicht funktioniert, sodass ein Weiterarbeiten in unserer Unterrichtszeit nicht möglich wir. Wir haben später von zu Hause aus unsere Recherchen komplimentiert. 
+Fr 11.09.2020 Heute hat das Internet immer noch nicht funktioniert, sodass ein Weiterarbeiten in unserer Unterrichtszeit nicht möglich war. Wir haben später von zu Hause aus unsere Recherchen komplementiert. 
  
 Do 24.09.2020 Heute haben wir das Problem gelöst, dass keine Klone mehr entstanden sind. Der Fehler lag in der Variable isClone, welches nicht richtig abgelesen werden konnte.
  
@@ -50,19 +50,19 @@ Di 29.09.2020 Heute haben wir uns mit dem list-Befehl beschäftigt und versucht 
 Do 1.10.2020 Wir haben uns weiterhin mit dem list-Befehl beschäftigt und versucht zu verstehen, wie dieser genau funktioniert und wie dieser genau am Ende zu einer Schlange führen soll. Dazu haben wir uns andere Snake-Programmierungen angesehen, um uns von diesen helfen zu lassen. Soweit wir verstanden haben, schreibt der list-Befehl in Snap! eine Art Tabelle, in welcher man Informationen vermerken kann (in unserem Fall x und y Koordinaten). Auf diese Liste kann man später zurückgreifen und die Daten auslesen, um einen Befehl damit zu füttern. In unserem Fall heißt das, dass der letzte Sprite gelöscht und anschließend nach ganz vorne versetzt werden soll, während die anderen auf ihren Positionen verbleiben.
 
 Fr 02.10.2020
-Wir haben unsere Steuerung gänzlich erneuert und alle Befehle kürzer programiert, so dass die Seuerung nun dierekter ist und keine Probleme mit zwei gleichzeitigen Eingaben hat, da der move Befehl nun nicht mehr in den einzelnen Tastenbefehlen integriert ist, sondern als eigenständige Foreverschleife von der grünen Flagge getrigert wird.
+Wir haben unsere Steuerung gänzlich erneuert und alle Befehle kürzer programiert, so dass die Seuerung nun direkter ist und keine Probleme mit zwei gleichzeitigen Eingaben hat, da der "move"-Befehl nun nicht mehr in den einzelnen Tastenbefehlen integriert ist, sondern als eigenständige Foreverschleife von der grünen Flagge getriggert wird.
 
-Mi 13.10.2020 
+Mi 14.10.2020 
 Wir haben uns den Code des anderen in unseren Code implementiert um zu überprüfen, ob unser Code fehlerhaft ist. Anschließed haben wir den fremden Code wieder entfernt. Unser Ergebnis ist:    
 
 DO 22.10.2020
-Heute haben wir entdeckt, wie man eigene Blöcke in Snap! definiert und anwendet. Wir haben zurzeit das Problem, dass der "touching trail" Befehl nicht erkannt wird. Das heißt, dass das Spiel nicht endet sobald die Schlange sich selbst berührt, was ja das Spiel stark beeinträchtigt. Wir sind gerade dabei, dieses Problem zu lösen.
+Wir haben entdeckt, wie man eigene Blöcke in Snap! definiert und anwendet. Wir haben zurzeit das Problem, dass der "touching trail" Befehl nicht erkannt wird. Das heißt, dass das Spiel nicht endet sobald die Schlange sich selbst berührt, was ja das Spiel stark beeinträchtigt. Wir sind gerade dabei, dieses Problem zu lösen.
 
 FR 23.10.2020
 Diese Stunde haben wir unser Spiel komplett zum Laufen gekriegt. Der Eraser funktioniert nun fast perfekt, es muss nur noch die Größe des Erasers leicht angepasst werden, damit die Schlangenkästchen voll und manchmal nicht nur teilweise entfernt werden. 
 
 Di 27.10.2020
-Heute haben wir das Design des Apfels bearbeitet. Das Einfügen des Bildes, welches wir aus Google Bilder entnommen haben, ging sehr einfach, da wir es einfach nur per drag and drop reinziehen mussten. In Snap haben wir das Bild dann noch etwas angepasst, indem wir alles um den Apfel wegradiert haben, sodass nur der Apfel zusehen war. Unsere nächste Aufgabe wird es sein, das Spiel allgemein bisschen hübscher zu gestalten, indem wir die Scoreanzeige anpassen, einen Anfangs- und Gameoverscreen erstellen und gewisse Effekte einfügen, die nach Erreichen gewisser Punkte erscheinen sollen.  
+Heute haben wir das Design des Apfels bearbeitet. Das Einfügen des Bildes, welches wir aus Google Bilder entnommen haben, ging sehr einfach, da wir es einfach nur per drag and drop reinziehen mussten. In Snap haben wir das Bild dann noch etwas angepasst, indem wir alles um den Apfel wegradiert haben, sodass nur der Apfel zu sehen war. Unsere nächste Aufgabe wird es sein, das Spiel allgemein ein bisschen hübscher zu gestalten, indem wir die Scoreanzeige anpassen, einen Anfangs- und Gameoverscreen erstellen und Effekte einfügen, die nach Erreichen gewisser Punkte erscheinen sollen.  
 ![bsp Apfelbearbeitung](images/Apfelbearbeitung.PNG "Apfelbearbeitung Screenshot")
 
 
@@ -70,29 +70,29 @@ Do 29.10.2020
 Heute haben wir uns mit der Programmierung eines Endscreens auseinandergesetzt. Dazu wird erstmal ein neuer Sprite generiert, dessen Design dann durch die Costumefunktion geändert wird, sodass er die Form eines Endscreens annimmt. Damit dieser dann flächendeckend angezeigt wird, muss die Position des "Sprites" bzw. des Endscreens auf x=0 y=0 gesetzt werden. Außerdem haben wir programmiert, dass der Endscreen beim Starten des Spiels versteckt wird und anschließend bei Berührung der Snake oder des Spielrandes angezeigt wird.
 
 Fr 30.10.2020
-Heute haben wir unseren Endscreen vervollständigt. Wir haben einen Feelsbadman-Emote eingesetzt und eine Zeile eingefügt, in welcher steht : Drücke [space] für Neustart. Dieser blinkt jede Sekunde einmal. Um dies umzusetzen, haben wir im Script ein Stopall-Block zu einem Stop-Script-Block geändert, welcher 3 Scripts per broadcast stoppt. Zudem haben wir eine Variable definiert, welche gleich 1 wird beim Neustart und das Blinken unseres neu eingefügten Schriftugs beendet. 
+Heute haben wir unseren Endscreen vervollständigt. Wir haben einen Feelsbadman-Emote eingesetzt und eine Zeile eingefügt, in welcher steht : Drücke [space] für Neustart. Dieser blinkt jede Sekunde einmal. Um dies umzusetzen, haben wir im Script ein Stopall-Block zu einem Stop-Script-Block geändert, welcher 3 Scripts per broadcast stoppt. Zudem haben wir eine Variable definiert, welche gleich 1 wird beim Neustart und das Blinken unseres neu eingefügten Schriftzugs beendet. 
 https://www.redbubble.com/de/i/galeriedruck/FeelsBadMan-Twitch-Emote-von-mattysus/29985716.7Q6GI
 
 ![bsp Neustart](images/Neustart.PNG "Neustart Screenshot")
 
 Di 03.11.2020
-Heute haben wir einen Soundeffekt in unser Spiel eingefügt, jedoch funktionert dieser noch nicht so wie er soll, da er auf nur einen einzigen Trigger reagiert und dann erst aufhört zu spielen, wenn der Score mindestens um einen Wert gestiegen ist. Unser Ziel ist es, dass der Score ab einer Bestimmten Zahl abgespielt wird und bei jedem Vielfachen dieser Zahl. Außerdem soll der Sound nur ein einziges Mal abgespielt werden und nicht in Dauerschleife, sobald der Score erreicht wurde. Dazu müssen wir uns noch ein wenig mit den mathematischen Blöcken beschäftigen. 
+Heute haben wir einen Soundeffekt in unser Spiel eingefügt, jedoch funktionert dieser noch nicht so wie er soll, da er auf nur einen einzigen Trigger reagiert und dann erst aufhört zu spielen, wenn der Score mindestens um einen Wert gestiegen ist. Unser Ziel ist es, dass der Score ab einer bestimmten Zahl abgespielt wird und bei jedem Vielfachen dieser Zahl. Außerdem soll der Sound nur ein einziges Mal abgespielt werden und nicht in Dauerschleife, sobald der Score erreicht wurde. Dazu müssen wir uns noch ein wenig mit den mathematischen Blöcken beschäftigen. 
 
 Do 12.11.2020
-Diese Stunde haben wir weiterhin versucht, dass der Sound bei jedem 5. Score abgespielt wird. Da dabei jedoch immer weiter neue Probleme aufgetaucht sind, haben wir uns dagegen entschieden, den Sound bei jedem 5. Score abzuspielen. Wir werden den Sound doch nicht abspielen lassen, da wir fanden, dass dieser Sound teilweise dann doch etwas nervig sein könnte für den Spieler und für Personen in der Nähe. 
+Diese Stunde haben wir weiterhin versucht, dass der Sound bei jedem 5. Score abgespielt wird. Da dabei jedoch immer weiter neue Probleme aufgetaucht sind, haben wir uns dagegen entschieden, den Sound bei jedem 5. Score abzuspielen. Wir werden den Sound doch nicht abspielen lassen, da wir fanden, dass dieser Sound teilweise etwas nervig sein könnte für den Spieler und für Personen in der Nähe. 
 
 Di 17.11.2020
 Diese Stunde haben wir damit begonnen, den Text für unseren Startscreen auszudenken. Um diesen zu erstellen, haben wir mit der App AdobeAcrobate gearbeitet. Dort haben wir eine spezielle Pinselform für unseren Text ausgewählt.
 
 Fr 20.11.2020
-Diese Stunde haben wir uns mit der Fertigstellung unseres Startscreens beschäftigt. Dazu haben wir auf dem IPad uns den Text dazu ausgedacht und passend zu unserem Endscreen uns ebenfalls ein Pepe-Emote aus Google-Bilder ausgesucht.
+Diese Stunde haben wir uns mit der Fertigstellung unseres Startscreens beschäftigt. Dazu haben wir auf dem IPad uns den Text dazu ausgedacht und passend zu unserem Endscreen  ebenfalls ein Pepe-Emote aus Google-Bilder ausgesucht.
 
 Di 24.11.2020
 Heute haben wir unseren Startscreen noch mit dem zuvor ausgesuchten peepoHappy-Emote ergänzt.
 https://steamcommunity.com/sharedfiles/filedetails/?id=2142040442
 Anschließend haben wir unseren Eraser nochmal verbessert, da dieser, sobald die Schlange horizontal nebeneinander verlaufen ist, zu viele Blöcke wegradiert hat und nicht mehr nur den hinten anschließenden Block. Es wurden teilweise manchmal 2 Blöcke gleichzeitig weggeschnitten. Dieses Problem haben wir behoben, indem wir von unserem Eraser, der ja die Form eines Rechtecks hatte, zu einem Quadrat geändert haben. So radiert er fast perfekt nur noch den hinten anschließenden Block weg, so wie wir es möchten.
 
-Fr 27.12.2020
+Fr 27.11.2020
 Diese Stunde haben wir bemerkt, dass der Eraser noch immer nach unten hin ein wenig zu viel wegradiert. Dieses Problem haben wir mit einer erneuten Anpassung des Erasers behoben, indem wir einen kleinen Teil des Eraserrechtecks von unten entfernt haben. Anschließend haben wir uns an unseren Blog gesetzt und grob die Rechtschreibfehler etc. korrigiert.
 
 Di 01.12.2020
@@ -101,4 +101,4 @@ Die Stunde haben wir dafür genutzt, unseren Blog weiter zu verbessern und wir h
 
 
 Do 3.12.2020
-Heute haben wir unsern Code veröffentlicht.Er ist nun unter folgendem Link zu erreichen: https://snap.berkeley.edu/project?user=bananows&project=projekt%204. anschließend haben wir an unserer Projektseite gearbeitet, wo wir das Spielprinzip ausführlich erläutert haben. 
+Heute haben wir unsern Code veröffentlicht.Er ist nun unter folgendem Link zu erreichen: https://snap.berkeley.edu/project?user=bananows&project=projekt%204. Anschließend haben wir an unserer Projektseite gearbeitet, wo wir das Spielprinzip ausführlich erläutert haben. 
